@@ -1,6 +1,6 @@
  Hi there!
 
--  I’m currently learning Front-end | Html | CSS | Bootstrap | JS
+-  I’m currently learning Front-end | Html | CSS |  JS
 -  Pronouns: She/her
 
 <div align="center">
