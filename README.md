@@ -3,7 +3,7 @@
 -  I’m currently learning Front-end | Html | CSS |  JS
 -  Pronouns: She/her
 
-<div align="center">
+<div align="right">
   <a href="https://github.com/marianaselene">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianaselene&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
